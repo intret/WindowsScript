@@ -1,0 +1,6 @@
+@echo off
+
+set batFileDir=%~dp0
+echo ÎÄ¼þÄ¿Â¼:%batFileDir%
+
+goto:eof
