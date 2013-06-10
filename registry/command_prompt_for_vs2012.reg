@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Folder\shell\Command Prompt For VS2012\Command]
+@="cmd.exe /k \"\"C:\\Program Files\\Microsoft Visual Studio 11.0\\Common7\\Tools\\VsDevCmd.bat\"\" && cd %1"

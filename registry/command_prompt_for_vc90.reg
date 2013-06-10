@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Folder\shell\Command Prompt For VC9\Command]
+@="cmd.exe /k \"\"C:\\Program Files\\Microsoft Visual Studio 9.0\\VC\\vcvarsall.bat\"\" && cd %1"
